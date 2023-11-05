@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form1.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Properties.Resources.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\bin\Debug\SortProject.exe.config
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\bin\Debug\SortProject.exe
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\bin\Debug\SortProject.pdb
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.exe
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.pdb
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form2.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form3.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form4.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form6.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form5.resources
+C:\Users\user\Desktop\CSharpSP\SortProject\SortProject\obj\Debug\SortProject.Form7.resources
